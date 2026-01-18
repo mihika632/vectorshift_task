@@ -4,6 +4,10 @@ A modern pipeline builder application with node abstraction, dynamic styling, va
 
 <img width="1830" height="875" alt="Screenshot 2026-01-18 222818" src="https://github.com/user-attachments/assets/1f4cd6e9-28b3-4195-88a0-6e21265738e5" />
 
+<img width="1867" height="875" alt="Screenshot 2026-01-18 221547" src="https://github.com/user-attachments/assets/4246bea2-6186-4f12-84b3-6ecb1c5246a7" />
+
+<img width="1885" height="909" alt="Screenshot 2026-01-18 221554" src="https://github.com/user-attachments/assets/269b7cdb-4ec0-4678-a1af-9b004db463ab" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
